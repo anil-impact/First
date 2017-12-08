@@ -19,8 +19,7 @@ public class TestNG_1 {
 		driver.get("https://www.google.com");  
   }
   
-  
-  
+ 
   @Test(alwaysRun=true)
   public void Test1() 
   {
