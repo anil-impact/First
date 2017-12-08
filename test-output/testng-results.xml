@@ -2,84 +2,84 @@
 <testng-results skipped="0" failed="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="6694" started-at="2017-12-08T08:47:47Z" finished-at="2017-12-08T08:47:54Z">
+  <suite name="Default suite" duration-ms="6517" started-at="2017-12-08T09:21:26Z" finished-at="2017-12-08T09:21:32Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="6694" started-at="2017-12-08T08:47:47Z" finished-at="2017-12-08T08:47:54Z">
+    <test name="Default test" duration-ms="6517" started-at="2017-12-08T09:21:26Z" finished-at="2017-12-08T09:21:32Z">
       <class name="TestNG_1">
-        <test-method status="PASS" signature="suite()[pri:0, instance:TestNG_1@2b552920]" name="suite" is-config="true" duration-ms="7" started-at="2017-12-08T14:17:47Z" description="description" finished-at="2017-12-08T14:17:47Z">
+        <test-method status="PASS" signature="suite()[pri:0, instance:TestNG_1@2b552920]" name="suite" is-config="true" duration-ms="13" started-at="2017-12-08T14:51:26Z" description="description" finished-at="2017-12-08T14:51:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- suite -->
-        <test-method status="PASS" signature="browser()[pri:0, instance:TestNG_1@2b552920]" name="browser" is-config="true" duration-ms="6667" started-at="2017-12-08T14:17:47Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="browser()[pri:0, instance:TestNG_1@2b552920]" name="browser" is-config="true" duration-ms="6478" started-at="2017-12-08T14:51:26Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browser -->
-        <test-method status="PASS" signature="before()[pri:0, instance:TestNG_1@2b552920]" name="before" is-config="true" duration-ms="1" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="before()[pri:0, instance:TestNG_1@2b552920]" name="before" is-config="true" duration-ms="3" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method status="PASS" signature="Test12()[pri:0, instance:TestNG_1@2b552920]" name="Test12" duration-ms="5" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="Test12()[pri:0, instance:TestNG_1@2b552920]" name="Test12" duration-ms="6" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test12 -->
-        <test-method status="PASS" signature="after12()[pri:0, instance:TestNG_1@2b552920]" name="after12" is-config="true" duration-ms="0" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="after12()[pri:0, instance:TestNG_1@2b552920]" name="after12" is-config="true" duration-ms="0" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after12 -->
-        <test-method status="PASS" signature="Test1()[pri:0, instance:TestNG_1@2b552920]" name="Test1" duration-ms="1" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:TestNG_1@2b552920]" name="Test1" duration-ms="1" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test1 -->
-        <test-method status="PASS" signature="before()[pri:0, instance:TestNG_1@2b552920]" name="before" is-config="true" duration-ms="0" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="before()[pri:0, instance:TestNG_1@2b552920]" name="before" is-config="true" duration-ms="0" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method status="PASS" signature="after12()[pri:0, instance:TestNG_1@2b552920]" name="after12" is-config="true" duration-ms="1" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="after12()[pri:0, instance:TestNG_1@2b552920]" name="after12" is-config="true" duration-ms="0" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after12 -->
-        <test-method status="PASS" signature="before()[pri:0, instance:TestNG_1@2b552920]" name="before" is-config="true" duration-ms="0" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="before()[pri:0, instance:TestNG_1@2b552920]" name="before" is-config="true" duration-ms="0" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method status="PASS" signature="Test2()[pri:0, instance:TestNG_1@2b552920]" name="Test2" duration-ms="1" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="Test2()[pri:0, instance:TestNG_1@2b552920]" name="Test2" duration-ms="1" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test2 -->
-        <test-method status="PASS" signature="after12()[pri:0, instance:TestNG_1@2b552920]" name="after12" is-config="true" duration-ms="0" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="after12()[pri:0, instance:TestNG_1@2b552920]" name="after12" is-config="true" duration-ms="1" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after12 -->
-        <test-method status="PASS" signature="before()[pri:0, instance:TestNG_1@2b552920]" name="before" is-config="true" duration-ms="1" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="before()[pri:0, instance:TestNG_1@2b552920]" name="before" is-config="true" duration-ms="0" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method status="PASS" signature="Test3()[pri:0, instance:TestNG_1@2b552920]" name="Test3" duration-ms="0" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="Test3()[pri:0, instance:TestNG_1@2b552920]" name="Test3" duration-ms="3" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test3 -->
-        <test-method status="PASS" signature="before()[pri:0, instance:TestNG_1@2b552920]" name="before" is-config="true" duration-ms="0" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="after12()[pri:0, instance:TestNG_1@2b552920]" name="after12" is-config="true" duration-ms="1" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after12 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:TestNG_1@2b552920]" name="before" is-config="true" duration-ms="0" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method status="PASS" signature="after12()[pri:0, instance:TestNG_1@2b552920]" name="after12" is-config="true" duration-ms="0" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- after12 -->
-        <test-method status="PASS" signature="Test4()[pri:0, instance:TestNG_1@2b552920]" name="Test4" duration-ms="1" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="Test4()[pri:0, instance:TestNG_1@2b552920]" name="Test4" duration-ms="1" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test4 -->
-        <test-method status="PASS" signature="after12()[pri:0, instance:TestNG_1@2b552920]" name="after12" is-config="true" duration-ms="0" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="after12()[pri:0, instance:TestNG_1@2b552920]" name="after12" is-config="true" duration-ms="1" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after12 -->
-        <test-method status="PASS" signature="after1()[pri:0, instance:TestNG_1@2b552920]" name="after1" is-config="true" duration-ms="0" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="after1()[pri:0, instance:TestNG_1@2b552920]" name="after1" is-config="true" duration-ms="1" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after1 -->
-        <test-method status="PASS" signature="after()[pri:0, instance:TestNG_1@2b552920]" name="after" is-config="true" duration-ms="1" started-at="2017-12-08T14:17:54Z" finished-at="2017-12-08T14:17:54Z">
+        <test-method status="PASS" signature="after()[pri:0, instance:TestNG_1@2b552920]" name="after" is-config="true" duration-ms="0" started-at="2017-12-08T14:51:32Z" finished-at="2017-12-08T14:51:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after -->
